@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoProblems", "DemoProblem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectionDemo", "..\ReflectionDemo\ReflectionDemo.csproj", "{D17D7C0C-AC90-4ED1-B770-C84C327E49CE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnnotationsDemo", "..\AnnotationsDemo\AnnotationsDemo.csproj", "{0FED5547-67A0-4C68-A719-88CCF75F9737}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D17D7C0C-AC90-4ED1-B770-C84C327E49CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D17D7C0C-AC90-4ED1-B770-C84C327E49CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D17D7C0C-AC90-4ED1-B770-C84C327E49CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FED5547-67A0-4C68-A719-88CCF75F9737}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FED5547-67A0-4C68-A719-88CCF75F9737}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FED5547-67A0-4C68-A719-88CCF75F9737}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FED5547-67A0-4C68-A719-88CCF75F9737}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
